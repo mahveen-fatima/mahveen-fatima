@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Mahveen fatima
 
-<p align="center">
+<p>
   🚀 Full-Stack Developer  
 </p>
 
@@ -49,8 +49,7 @@
 
 ## 🌍 Connect With Me  
 <p>
-  <a href="https://linkedin.com/in/mahveen-fatima/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:mahveenfatima2224@gmail.com"><img src="https://img.shields.io/badge/Email-FFA07A?style=for-the-badge&logo=gmail&logoColor=black
-" /></a>
+  <a href="https://www.linkedin.com/in/mahveen-fatima-48857a2b9/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:mahveenfatima2224@gmail.com"><img src="https://img.shields.io/badge/Email-FFA07A?style=for-the-badge&logo=gmail&logoColor=black" /></a>
 </p>
  
