@@ -13,7 +13,23 @@
 
 ## 🛠 Tech Stack  
 
+**💻 Frontend:**  
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js)  
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript)  
 
+**🛠 Backend:**  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js)  
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql) 
+
+**🛠 Tools & Technologies:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman)  
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code)
 
 
 ## 📈 GitHub Stats  
@@ -26,8 +42,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahveen-fatima&layout=compact&theme=radical" width="48%" />
 </p>
 
----
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat)
+
+![Profile Views](https://komarev.com/ghpvc/?username=mahveen-fatima&label=Profile%20Views&color=0e75b6&style=flat)
 
 
 ## 🌍 Connect With Me  
